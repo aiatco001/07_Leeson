@@ -1,0 +1,35 @@
+.eee {
+	font-size: 20px;
+}
+
+.zzz {
+	font-size: 30px;
+}
+.eee, .zzz{
+		line-height: 1.5;
+		font-family: Arial;
+}
+
+.aaa {
+	font-size: 20px;
+}
+
+.sss {
+	font-size: 30px;
+}
+.ggg {
+	font-size: 35px;
+}
+.aaa, .sss, .ggg{
+		text-align: center;
+		font-family: Arial;
+}
+.headerr {
+	color: red;
+}
+h2.headerr{
+	font-size: 40px;
+}
+h3.headerr{
+	font-size: 30px;
+}

@@ -1,0 +1,12 @@
+p.bbb {
+	color: red;
+}
+p .bbb {
+	color: rgb(21, 145, 16);
+}
+.eee p.bbb {
+	color: rgb(12, 29, 104);
+}
+.eee p .bbb {
+	color: rgb(129, 170, 32);
+}

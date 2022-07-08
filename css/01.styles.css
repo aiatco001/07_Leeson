@@ -1,0 +1,21 @@
+.eee i{
+	color: red;
+}
+.eee .bbb {
+	color: green;
+}
+.eee h2 {
+	color: blue;
+}
+.eee h2.bbb {
+	color: olivedrab;
+}
+.eee h3.bbb {
+	color: yellow;
+}
+.eee p.bbb {
+	color: orange;
+}
+.eee, p .kkk {
+	color: goldenrod;
+}
